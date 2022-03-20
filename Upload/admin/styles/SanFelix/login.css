@@ -53,7 +53,7 @@ button {
 
 a:link,
 a:visited {
-    color: #246E00;
+    color: #266F3E;
     text-decoration: none;
 }
 
@@ -77,14 +77,14 @@ button:focus {
 #logo h1 {}
 
 #header h1 a {
-    color: transparent;
+	   color: transparent;
 }
 
 #header a {
     background: url(./images/logo.png) 10px center no-repeat;
     height: 82px;
     display: block;
-    color: #246E00;
+    color: #266F3E;
     line-height: 40px;
     padding-left: 50px;
     border-radius: 3px;
@@ -127,7 +127,7 @@ button:focus {
 
 input[type="submit"] {
     color: #fff;
-    background-color: #246E00;
+    background-color: #266F3E;
     display: inline-flex;
     padding: 4px 10px;
     font-size: 0.9em;
@@ -156,7 +156,7 @@ input[type="submit"] {
 }
 
 input.text_input:focus {
-    border: 1px solid #246E00;
+    border: 1px solid #266F3E;
 }
 
 #content #message {
